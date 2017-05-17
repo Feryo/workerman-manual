@@ -52,6 +52,7 @@
            * [destroy](worker-development/destroy.md)
            * [pauseRecv](worker-development/pause-recv.md)
            * [resumeRecv](worker-development/resume-recv.md)
+       * [Inter Process Communications](worker-development/ipc.md) 
    * [AsyncTcpConnection](worker-development/async-tcp-connection.md)
        * [__construct](worker-development/__construct.md)
        * [connect](worker-development/connect.md)
